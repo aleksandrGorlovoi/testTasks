@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="io.rest-assured/rest-assured" />
+      <option name="name" value="io.rest-assured/rest-assured" />
+      <option name="url" value="https://mvnrepository.com/artifact/io.rest-assured/rest-assured" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nc.super.poms" />
+      <option name="name" value="nc.super.poms" />
+      <option name="url" value="https://artifactorycn.netcracker.com/nexussrv_nc_super_poms.mvn.proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.junit.jupiter/junit-jupiter-engine" />
+      <option name="name" value="org.junit.jupiter/junit-jupiter-engine" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactorycn.netcracker.com/nc.nexussrv-product-group-dtrust.mvn.group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pd.dtrust.mvn.staging" />
+      <option name="name" value="pd.dtrust.mvn.staging" />
+      <option name="url" value="https://artifactorycn.netcracker.com/pd.dtrust.mvn.staging" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pd.sandbox.mvn.staging" />
+      <option name="name" value="pd.sandbox.mvn.staging" />
+      <option name="url" value="https://artifactorycn.netcracker.com/pd.sandbox.mvn.staging" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pd.sandbox-legacy.mvn.group" />
+      <option name="name" value="pd.sandbox-legacy.mvn.group" />
+      <option name="url" value="https://artifactorycn.netcracker.com/pd.sandbox-legacy.mvn.group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pd.dtrust.mvn.snapshots" />
+      <option name="name" value="pd.dtrust.mvn.snapshots" />
+      <option name="url" value="https://artifactorycn.netcracker.com/pd.dtrust.mvn.snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pd.sandbox.mvn.snapshots" />
+      <option name="name" value="pd.sandbox.mvn.snapshots" />
+      <option name="url" value="https://artifactorycn.netcracker.com/pd.sandbox.mvn.snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nc.maven.plugins" />
+      <option name="name" value="nc.maven.plugins" />
+      <option name="url" value="https://artifactorycn.netcracker.com/nexussrv_nc_maven_plugins.mvn.proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.seleniumhq.selenium/selenium-java" />
+      <option name="name" value="org.seleniumhq.selenium/selenium-java" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java" />
+    </remote-repository>
+  </component>
+</project>
